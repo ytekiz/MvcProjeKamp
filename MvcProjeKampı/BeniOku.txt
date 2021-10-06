@@ -1,0 +1,4 @@
+Yazar Girişi Mail:emel@gmail.com
+Şifre:123
+Admin Girişi Mail:admin2@gmail.com
+Şifre:002

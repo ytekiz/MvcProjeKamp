@@ -1,0 +1,40 @@
+C:\Users\user\source\repos\MvcProjeKampı\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\user\source\repos\MvcProjeKampı\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\user\source\repos\MvcProjeKampı\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\user\source\repos\MvcProjeKampı\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\user\source\repos\MvcProjeKampı\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\user\source\repos\MvcProjeKampı\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\MvcProjeKampı\BusinessLayer\bin\Debug\EntityLayer.dll
+C:\Users\user\source\repos\MvcProjeKampı\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\user\source\repos\MvcProjeKampı\BusinessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\user\source\repos\MvcProjeKampı\BusinessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\user\source\repos\MvcProjeKampı\BusinessLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\user\source\repos\MvcProjeKampı\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\user\source\repos\MvcProjeKampı\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\MvcProjeKampı\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\user\source\repos\MvcProjeKampı\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MvcProjeKampı\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\user\source\repos\MvcProjeKampı\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\user\source\repos\MvcProjeKampı\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\user\source\repos\MvcProjeKampı\BusinessLayer\bin\Debug\FluentValidation.dll
+C:\Users\user\source\repos\MvcProjeKampı\BusinessLayer\bin\Debug\FluentValidation.xml
+C:\Users\user\Desktop\ÇOK ÖNEMLİ\Yeni klasör\MvcProjeKampı\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\user\Desktop\ÇOK ÖNEMLİ\Yeni klasör\MvcProjeKampı\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\user\Desktop\ÇOK ÖNEMLİ\Yeni klasör\MvcProjeKampı\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\user\Desktop\ÇOK ÖNEMLİ\Yeni klasör\MvcProjeKampı\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\user\Desktop\ÇOK ÖNEMLİ\Yeni klasör\MvcProjeKampı\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\ÇOK ÖNEMLİ\Yeni klasör\MvcProjeKampı\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\ÇOK ÖNEMLİ\Yeni klasör\MvcProjeKampı\BusinessLayer\bin\Debug\EntityLayer.dll
+C:\Users\user\Desktop\ÇOK ÖNEMLİ\Yeni klasör\MvcProjeKampı\BusinessLayer\bin\Debug\FluentValidation.dll
+C:\Users\user\Desktop\ÇOK ÖNEMLİ\Yeni klasör\MvcProjeKampı\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\user\Desktop\ÇOK ÖNEMLİ\Yeni klasör\MvcProjeKampı\BusinessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\user\Desktop\ÇOK ÖNEMLİ\Yeni klasör\MvcProjeKampı\BusinessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\user\Desktop\ÇOK ÖNEMLİ\Yeni klasör\MvcProjeKampı\BusinessLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\user\Desktop\ÇOK ÖNEMLİ\Yeni klasör\MvcProjeKampı\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\ÇOK ÖNEMLİ\Yeni klasör\MvcProjeKampı\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\ÇOK ÖNEMLİ\Yeni klasör\MvcProjeKampı\BusinessLayer\bin\Debug\FluentValidation.xml
+C:\Users\user\Desktop\ÇOK ÖNEMLİ\Yeni klasör\MvcProjeKampı\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ÇOK ÖNEMLİ\Yeni klasör\MvcProjeKampı\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ÇOK ÖNEMLİ\Yeni klasör\MvcProjeKampı\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\user\Desktop\ÇOK ÖNEMLİ\Yeni klasör\MvcProjeKampı\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\user\Desktop\ÇOK ÖNEMLİ\Yeni klasör\MvcProjeKampı\BusinessLayer\obj\Debug\BusinessLayer.pdb

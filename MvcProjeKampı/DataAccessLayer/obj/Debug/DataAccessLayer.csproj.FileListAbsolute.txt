@@ -1,0 +1,57 @@
+C:\Users\user\source\repos\MvcProjeKampı\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\user\source\repos\MvcProjeKampı\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\user\source\repos\MvcProjeKampı\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\user\source\repos\MvcProjeKampı\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\user\source\repos\MvcProjeKampı\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\MvcProjeKampı\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\user\source\repos\MvcProjeKampı\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\user\source\repos\MvcProjeKampı\DataAccessLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\user\source\repos\MvcProjeKampı\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\user\source\repos\MvcProjeKampı\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\MvcProjeKampı\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\user\source\repos\MvcProjeKampı\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MvcProjeKampı\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\user\source\repos\MvcProjeKampı\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\user\source\repos\MvcProjeKampı\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\user\source\repos\MvcProjeKampı\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig1.resources
+C:\Users\user\source\repos\MvcProjeKampı\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+C:\Users\user\source\repos\MvcProjeKampı\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writer_edit.resources
+C:\Users\user\source\repos\MvcProjeKampı\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_imagesizechange.resources
+C:\Users\user\source\repos\MvcProjeKampı\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writer_addstatus.resources
+C:\Users\user\source\repos\MvcProjeKampı\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_headingstatusadd.resources
+C:\Users\user\source\repos\MvcProjeKampı\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_headingtatus.resources
+C:\Users\user\source\repos\MvcProjeKampı\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_add_message.resources
+C:\Users\user\source\repos\MvcProjeKampı\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_contactdateadd.resources
+C:\Users\user\source\repos\MvcProjeKampı\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_addimage_file.resources
+C:\Users\user\source\repos\MvcProjeKampı\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_admin_table.resources
+C:\Users\user\source\repos\MvcProjeKampı\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.admin_username_update.resources
+C:\Users\user\source\repos\MvcProjeKampı\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writertitle_add.resources
+C:\Users\user\Desktop\ÇOK ÖNEMLİ\Yeni klasör\MvcProjeKampı\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\user\Desktop\ÇOK ÖNEMLİ\Yeni klasör\MvcProjeKampı\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\user\Desktop\ÇOK ÖNEMLİ\Yeni klasör\MvcProjeKampı\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\user\Desktop\ÇOK ÖNEMLİ\Yeni klasör\MvcProjeKampı\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\ÇOK ÖNEMLİ\Yeni klasör\MvcProjeKampı\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\ÇOK ÖNEMLİ\Yeni klasör\MvcProjeKampı\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\user\Desktop\ÇOK ÖNEMLİ\Yeni klasör\MvcProjeKampı\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\user\Desktop\ÇOK ÖNEMLİ\Yeni klasör\MvcProjeKampı\DataAccessLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\user\Desktop\ÇOK ÖNEMLİ\Yeni klasör\MvcProjeKampı\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\ÇOK ÖNEMLİ\Yeni klasör\MvcProjeKampı\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\ÇOK ÖNEMLİ\Yeni klasör\MvcProjeKampı\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ÇOK ÖNEMLİ\Yeni klasör\MvcProjeKampı\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig1.resources
+C:\Users\user\Desktop\ÇOK ÖNEMLİ\Yeni klasör\MvcProjeKampı\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writer_edit.resources
+C:\Users\user\Desktop\ÇOK ÖNEMLİ\Yeni klasör\MvcProjeKampı\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_imagesizechange.resources
+C:\Users\user\Desktop\ÇOK ÖNEMLİ\Yeni klasör\MvcProjeKampı\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writer_addstatus.resources
+C:\Users\user\Desktop\ÇOK ÖNEMLİ\Yeni klasör\MvcProjeKampı\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_headingstatusadd.resources
+C:\Users\user\Desktop\ÇOK ÖNEMLİ\Yeni klasör\MvcProjeKampı\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_headingtatus.resources
+C:\Users\user\Desktop\ÇOK ÖNEMLİ\Yeni klasör\MvcProjeKampı\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_add_message.resources
+C:\Users\user\Desktop\ÇOK ÖNEMLİ\Yeni klasör\MvcProjeKampı\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_contactdateadd.resources
+C:\Users\user\Desktop\ÇOK ÖNEMLİ\Yeni klasör\MvcProjeKampı\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_addimage_file.resources
+C:\Users\user\Desktop\ÇOK ÖNEMLİ\Yeni klasör\MvcProjeKampı\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_admin_table.resources
+C:\Users\user\Desktop\ÇOK ÖNEMLİ\Yeni klasör\MvcProjeKampı\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.admin_username_update.resources
+C:\Users\user\Desktop\ÇOK ÖNEMLİ\Yeni klasör\MvcProjeKampı\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writertitle_add.resources
+C:\Users\user\Desktop\ÇOK ÖNEMLİ\Yeni klasör\MvcProjeKampı\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ÇOK ÖNEMLİ\Yeni klasör\MvcProjeKampı\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ÇOK ÖNEMLİ\Yeni klasör\MvcProjeKampı\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\user\Desktop\ÇOK ÖNEMLİ\Yeni klasör\MvcProjeKampı\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\user\Desktop\ÇOK ÖNEMLİ\Yeni klasör\MvcProjeKampı\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\user\Desktop\ÇOK ÖNEMLİ\Yeni klasör\MvcProjeKampı\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_add_talent.resources
